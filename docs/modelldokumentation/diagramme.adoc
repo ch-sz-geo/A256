@@ -1,9 +1,9 @@
 == Diagramme
 === Komponentendiagramm
-image::../img/Komponentendiagramm.jpg[]
+image::../img/Komponentendiagramm.png[]
 
 === Klassendiagramm
-image::../img/Klassendiagramm.jpg[]
+image::../img/Klassendiagramm.png[]
 
 image::../img/Legende Klassendiagramm.png[width=350]
 
