@@ -1,5 +1,5 @@
 // Hier den Titel eingeben
-:title: <Themenname> (<Themennummer>)
+:title: INTERLIS-Konfiguration (A256)
 :subtitle: Modelldokumentation
 ifdef::backend-pdf[]
 = {title}
