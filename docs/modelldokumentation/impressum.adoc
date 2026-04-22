@@ -10,7 +10,7 @@
 | letzte Änderung | {docdate}
 | Themen-Nummer | A256
 | ID nach kGeoiV | --- 
-| Beteiligte | Kuno Epper, Fachexperte (kep), Amt für Geoinformaiton + 
+| Beteiligte | Kuno Epper, Fachexperte (kep), Amt für Geoinformation + 
 Kuno Epper, Modellierer (kep), Amt für Geoinformation
 |===
 ====
