@@ -1,6 +1,8 @@
 == Modellbeschreibung
 
-<Beschreibung einfügen>
+INTERLIS ist bei den Geodaten eine zentrale Komponente sowohl bei der Datenmodellierung wie auch beim Datenaustausch. Einige INTERLIS-spezifische Informationen müssen zentral bereitgestellt werden. Dies betrifft z.B. das Präfix für den Objektidentifikator gemäss der Sprachspezifikation von INTERLIS (Standard-OID).
+
+Damit die aus dem INTERLIS-Umfeld anfallenden Daten zentral zur Verfügung gestellt werden können, wurde diese Datenmodell geschaffen. Es dient als Stammdatenkatalog.
 
 ifdef::backend-pdf[]
 <<<

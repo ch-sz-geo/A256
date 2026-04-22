@@ -6,11 +6,11 @@
 ====
 [cols="1, 3"]
 |===
-| Erstelldatum | 2024-01-01
+| Erstelldatum | 2026-04-21
 | letzte Änderung | {docdate}
-| Themen-Nummer | Annn
+| Themen-Nummer | A256
 | ID nach kGeoiV | --- 
-| Beteiligte | Person 1, Fachexperte (Kürzel 1), Amt 1 + 
+| Beteiligte | Kuno Epper, Fachexperte (kep), Amt für Geoinformaiton + 
 Kuno Epper, Modellierer (kep), Amt für Geoinformation
 |===
 ====
