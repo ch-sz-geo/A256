@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><ili:transfer xmlns:ili="http://www.interlis.ch/xtf/2.4/INTERLIS" xmlns:geom="http://www.interlis.ch/geometry/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SZ_INTERLIS_Konfiguration_V1="http://www.interlis.ch/xtf/2.4/SZ_INTERLIS_Konfiguration_V1">
+<ili:headersection><ili:models><ili:model>SZ_INTERLIS_Konfiguration_V1</ili:model></ili:models><ili:sender>ili2pg-5.5.0-a63de657a43b4ef80b3400f35d088f91ea36fe98</ili:sender></ili:headersection>
+<ili:datasection>
+<SZ_INTERLIS_Konfiguration_V1:Stammdaten ili:bid="ch.sz.a256.stammdaten.2000-01-01">
+<SZ_INTERLIS_Konfiguration_V1:StandardOID_Praefix ili:tid="ee41d000-6f32-4862-9836-6a894782a4be"><SZ_INTERLIS_Konfiguration_V1:OID_Praefix>ch26dbaj</SZ_INTERLIS_Konfiguration_V1:OID_Praefix><SZ_INTERLIS_Konfiguration_V1:Bestelldatum>2026-01-22</SZ_INTERLIS_Konfiguration_V1:Bestelldatum><SZ_INTERLIS_Konfiguration_V1:Organisation>Amt für Umwelt und Energie (AfU)</SZ_INTERLIS_Konfiguration_V1:Organisation><SZ_INTERLIS_Konfiguration_V1:Thema>A254 (Grundwasseraustritte)</SZ_INTERLIS_Konfiguration_V1:Thema><SZ_INTERLIS_Konfiguration_V1:Vorname>Kuno</SZ_INTERLIS_Konfiguration_V1:Vorname><SZ_INTERLIS_Konfiguration_V1:Nachname>Epper</SZ_INTERLIS_Konfiguration_V1:Nachname><SZ_INTERLIS_Konfiguration_V1:E_Mail>mailto:kuno.epper@sz.ch</SZ_INTERLIS_Konfiguration_V1:E_Mail><SZ_INTERLIS_Konfiguration_V1:Bemerkung>Dieses OID-Präfix ist das erste, welche der Kanton SZ bestellt hat.</SZ_INTERLIS_Konfiguration_V1:Bemerkung></SZ_INTERLIS_Konfiguration_V1:StandardOID_Praefix>
+</SZ_INTERLIS_Konfiguration_V1:Stammdaten>
+</ili:datasection>
+</ili:transfer>
